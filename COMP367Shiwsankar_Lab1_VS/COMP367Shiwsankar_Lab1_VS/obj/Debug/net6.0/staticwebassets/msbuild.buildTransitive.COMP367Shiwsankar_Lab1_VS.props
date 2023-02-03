@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\COMP367Shiwsankar_Lab1_VS.props" />
+</Project>
